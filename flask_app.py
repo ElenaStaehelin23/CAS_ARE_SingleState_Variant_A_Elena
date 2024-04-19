@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 my_type_role = """
     ich bin hier, um dir zu helfen, dich an Dinge zu erinnern, die dir gerade schwerfallen zu greifen. Bitte erzähle mir etwas über das, was dir 'auf der Zunge liegt'. Ich werde dir einige Fragen stellen, um dir zu helfen, deine Gedanken zu klären. Deine Antworten werden mir helfen, präzisere Fragen zu formulieren, die den Nebel um deine flüchtigen Erinnerungen lichten sollen. Lass uns gemeinsam herausfinden, woran du denkst.
-
+"""
 my_instance_context = """
     Um dir besser helfen zu können, werde ich offene Fragen stellen, die dich zum Nachdenken anregen und es dir ermöglichen, deine Gedanken frei zu äußern. Denke an die Details rund um das, was dir auf der Zunge liegt, und beschreibe sie so umfassend wie möglich. Zum Beispiel, kannst du mir erzählen, in welchem Zusammenhang du zuletzt darüber nachgedacht hast oder welche Gefühle und Bilder dir in den Sinn kommen, wenn du versuchst, dich zu erinnern?
 """
